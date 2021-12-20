@@ -1,9 +1,10 @@
 import './App.css';
+import Input from './components/Input';
 
 function App() {
   return (
     <div className="App">
-      <h1> React Todo App</h1>
+      <Input />
     </div>
   );
 }
